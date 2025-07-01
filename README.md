@@ -19,7 +19,9 @@
   <br>
     
   <h2 align=center>💡 Algorithm 💡</h2>
+
   <!--Markdown-->
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
 
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pjs0703&theme=dark)
@@ -78,7 +80,9 @@
     
   <h2 align=center>📊 Github Stats 📊</h2>
   <br>
+
   <!--Markdown-->
+  
   [![jongseo0703's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseo0703)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact)
@@ -87,7 +91,9 @@
 <div>
 
   <!--footer-->
+  
   <!--Markdown-->
+  
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
   
 </div>
