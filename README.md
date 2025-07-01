@@ -61,6 +61,13 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact)
 </div>
 
+<div>
+
+  <!--footer-->
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+  
+</div>
+
 <!--
 **jongseo0703/jongseo0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
