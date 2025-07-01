@@ -1,6 +1,7 @@
 <div>
   
   <!--header-->
+  <!--Markdown-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20jongseo's%20github%20%F0%9F%A4%97)
 
   [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjongseo0703?color=purple&label=hits&size=small)](https://myhits.vercel.app)
@@ -18,7 +19,7 @@
   <br>
     
   <h2 align=center>💡 Algorithm 💡</h2>
-
+  <!--Markdown-->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
 
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pjs0703&theme=dark)
@@ -75,9 +76,9 @@
   
   <br>
     
-  <h2 align=center>🫣 Github Stats 🫣</h2>
+  <h2 align=center>📊 Github Stats 📊</h2>
   <br>
-
+  <!--Markdown-->
   [![jongseo0703's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseo0703)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact)
@@ -86,6 +87,7 @@
 <div>
 
   <!--footer-->
+  <!--Markdown-->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
   
 </div>
