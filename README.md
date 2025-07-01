@@ -8,9 +8,17 @@
 <div>
 <!--Body-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseo0703)](https://github.com/anuraghazra/github-readme-stats)
+  <div align=center>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseo0703)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  
+  <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
+  <div align=center>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
+  </div>
+  
+  <br>
 
   <h3 align=center>🖥️ STACKS 🖥️</h3>
   <div align=center>
@@ -42,6 +50,8 @@
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </div>
+  
+  <br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact)
 </div>
