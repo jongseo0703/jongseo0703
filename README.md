@@ -35,6 +35,9 @@
   <div align=center>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
   </div>
+  <div align=center>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">&nbsp
+  </div>
   
   <br>
 
