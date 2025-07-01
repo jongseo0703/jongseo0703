@@ -13,9 +13,9 @@
   
   <br>
 
-  <div align=center>
+  
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
-  </div>
+  
   
   <br>
 
