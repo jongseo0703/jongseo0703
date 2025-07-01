@@ -21,7 +21,9 @@
   
   <br>
 
-  <h3 align=center>🖥️ Stacks 🖥️</h3>
+  <h2 align=center>📚 Tech Stack 📚</h2>
+  <br>
+  <h3 align=center>🪄 Languages 🪄</h3>
   <div align=center>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
@@ -35,7 +37,7 @@
   
   <br>
 
-  <h3 align=center>📚 Studying 📚</h3>
+  <h3 align=center>📖 Studying 📖</h3>
   <div align=center>
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
   </div>
