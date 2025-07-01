@@ -14,6 +14,8 @@
   <br>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
+
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={pjs0703}&theme=warm)
   
   <br>
 
