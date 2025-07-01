@@ -11,6 +11,8 @@
 <!--Body-->
   
   <br>
+    
+  <h2 align=center>💡 Algorithm 💡</h2>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
 
