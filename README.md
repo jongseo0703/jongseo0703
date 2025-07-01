@@ -9,9 +9,6 @@
 
 <div>
 <!--Body-->
-
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseo0703)](https://github.com/anuraghazra/github-readme-stats)
   
   <br>
 
@@ -70,7 +67,10 @@
   </div>
   
   <br>
-  
+    
+  <h2 align=center>🫣 Github Stats 🫣</h2>
+  <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseo0703)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact)
 </div>
 
