@@ -12,7 +12,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
 
-  <h3 align="center">🖥️ STACKS 🖥️</h3>
+  <h3 align=center>🖥️ STACKS 🖥️</h3>
   <div align=center>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
@@ -23,20 +23,23 @@
   
   <br>
 
-  <h3 align="center">📚 Studying 📚</h3>
+  <h3 align=center>📚 Studying 📚</h3>
   <div align=center>
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
+  </div>
+  <div align=center>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
   </div>
   
   <br>
 
-  <h3 align="center">🛠 Tools 🛠</h3>
+  <h3 align=center>🛠 Tools 🛠</h3>
   <div align=center>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
   </div>
   
-  <div align="center">
+  <div align=center>
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </div>
