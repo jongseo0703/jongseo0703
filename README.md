@@ -9,6 +9,11 @@
 
 <div>
 <!--Body-->
+
+  <h2 align=center>👀 About me 👀</h2>
+  
+  <br>
+  <h4>백엔드 개발자를 꿈꾸며 성장하는 박종서입니다.</h4>
   
   <br>
     
