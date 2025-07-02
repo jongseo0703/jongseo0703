@@ -1,4 +1,6 @@
-![snake gif](https://github.com/jongseo0703/jongseo0703/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-snake-dark.svg">
+</div>
 
 <div>
   
