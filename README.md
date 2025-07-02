@@ -18,7 +18,8 @@
 
   <h2 align=center>👀 About me 👀</h2>
   <br>
-  <h4 align=center>백엔드 개발자를 꿈꾸며 꾸준히 성장해가는 박종서입니다.</h4>
+  <h4 align=center>👨‍💻 I aim to become a Backend Developer.</h4>
+  <h4 align=center>🔥 No one can stop my efforts.</h4>
   
   <br>
     
