@@ -24,8 +24,6 @@
   <br>
     
   <h2 align=center>🤙 Contact me 🤙</h2>
-  <br>
-  <h4 align=center>📧E-mail : jongseo0703@naver.com</h4>
 
   <br>
     
