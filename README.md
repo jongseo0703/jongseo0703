@@ -13,7 +13,7 @@
 <div>
 <!--Body-->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/jongseo0703/jongseo0703/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-contribution-grid-snake.svg">
   </div>
 
   <h2 align=center>👀 About me 👀</h2>
