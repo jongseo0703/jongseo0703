@@ -31,7 +31,7 @@
     
   <div align="center">
     <a href="mailto:pjs990703@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="mailto:jongseo0703@naver.com"><img src="https://img.shields.io/badge/naver-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
+    <a href="mailto:jongseo0703@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   </div>
 
   <br>
