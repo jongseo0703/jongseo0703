@@ -28,9 +28,11 @@
   <h4 align=center>📧E-mail : jongseo0703@naver.com</h4>
 
   <div align=center>
+    
     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjs990703@gmail.com)](mailto:pjs990703@gmail.com)
   
     [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jongseo0703@naver.com)](mailto:jongseo0703@naver.com)
+
   </div>
 
   <br>
