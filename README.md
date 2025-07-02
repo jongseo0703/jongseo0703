@@ -1,8 +1,10 @@
 <div>
   
   <!--header-->
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+JongSeo's+Github!👋&fontSize=40"/>
+  
   <!--Markdown-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20jongseo's%20github%20%F0%9F%A4%97)
 
   [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjongseo0703?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
