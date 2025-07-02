@@ -25,6 +25,8 @@
   <br>
   <h4 align=center>📧E-mail : jongseo0703@naver.com</h4>
 
+  <br>
+
   <h2 align=center>💡 Algorithm 💡</h2>
 
   <!--Markdown-->
