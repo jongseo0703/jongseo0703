@@ -37,11 +37,13 @@
 
   <h2 align=center>💡 Algorithm 💡</h2>
 
-  <!--Markdown-->
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703/)
-
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pjs0703&theme=dark)
+  <div align=center>
+    <a href="https://solved.ac/pjs0703/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703"/>
+    </a>
+    <br>
+    <img src="http://mazandi.herokuapp.com/api?handle=pjs0703&theme=dark"/>
+  </div>
   
   <br>
 
