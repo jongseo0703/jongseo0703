@@ -101,21 +101,23 @@
   <h2 align=center>📊 Github Stats 📊</h2>
   <br>
 
-  <!--Markdown-->
-  
-  ![jongseo0703's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseo0703&show_icons=true&theme=tokyonight)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact&theme=tokyonight)
+  <div align=center>
+    <img src="https://github-readme-stats.vercel.app/api?username=jongseo0703&show_icons=true&theme=tokyonight" alt="Github stats"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  </div>
 
   <br>
-    
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jongseo0703&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/jongseo0703"
-      width="600"
-      height="300"
-    />
-  </a>
+
+  <div align=center>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jongseo0703&utm_content=farm">
+      <img
+        src="https://render.gitanimals.org/farms/jongseo0703"
+        width="600"
+        height="300"
+      />
+    </a>
+  </div>
     
 </div>
 
