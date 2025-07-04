@@ -9,6 +9,8 @@
 
   [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjongseo0703?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703)
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+JongSeo+Park;I+dream+to+be+an+Back-end+Developer" alt="Typing SVG" /></a>
+
 </div>
 
 <div>
