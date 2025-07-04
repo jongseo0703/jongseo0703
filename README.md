@@ -14,9 +14,7 @@
 <div>
 <!--Body-->
 
-  <div align="center">
-    <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-snake-dark.svg" width="98%">
-  </div>
+  <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-snake-dark.svg" width="98%">
 
   <h2 align=center>👀 About me 👀</h2>
   <br>
