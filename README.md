@@ -14,7 +14,9 @@
 <div>
 <!--Body-->
 
-  <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-contribution-grid-snake.svg"/>
+  <div align="center">
+    <img src="https://github.com/kokokim/kokokim/blob/output/github-snake-dark.svg" width="98%">
+  </div>
   
   <h2 align=center>👀 About me 👀</h2>
   <br>
