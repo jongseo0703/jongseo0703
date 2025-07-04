@@ -14,6 +14,8 @@
 <div>
 <!--Body-->
 
+  <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-contribution-grid-snake.svg"/>
+
   <h2 align=center>👀 About me 👀</h2>
   <br>
   <h4 align=center>👨‍💻 I aim to become a Backend Developer.</h4>
