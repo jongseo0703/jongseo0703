@@ -121,6 +121,8 @@
     </a>
   </div>
 
+  <br>
+
   <div align=center>
     <a href="https://www.gitanimals.org/">
       <img
