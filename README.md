@@ -17,6 +17,8 @@
   <div align="center">
     <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-snake-dark.svg" width="98%">
   </div>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Mozilla&weight=500&size=30&duration=3000&pause=1000&color=4158F7&background=B2FF7100&width=435&lines=%2F%E1%90%A0+%CC%A5+%CC%AE+%CC%A5%E1%90%9F%5C%E0%B8%85+Code.+Build.+Repeat." alt="Typing SVG" /></a>
   
   <h2 align=center>👀 About me 👀</h2>
   <br>
