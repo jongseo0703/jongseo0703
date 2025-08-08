@@ -7,7 +7,7 @@
   
   <!--Markdown-->
 
-  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjongseo0703?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla&weight=500&size=30&duration=3000&pause=1000&color=4158F7&background=B2FF7100&width=435&lines=%2F%E1%90%A0+%CC%A5+%CC%AE+%CC%A5%E1%90%9F%5C%E0%B8%85+Code.+Build." alt="Typing SVG" /></a>
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjongseo0703?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla&weight=500&size=30&duration=3000&pause=1000&color=4158F7&background=B2FF7100&width=435&lines=%2F%E1%90%A0+%CC%A5+%CC%AE+%CC%A5%E1%90%9F%5C%E0%B8%85+Code.+Build." alt="Typing SVG" /></a>
 
 </div>
 
