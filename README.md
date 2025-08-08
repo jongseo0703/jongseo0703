@@ -9,7 +9,7 @@
 
   [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjongseo0703?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla&weight=500&size=30&duration=3000&pause=1000&color=4158F7&background=B2FF7100&width=600&lines=%2F%E1%90%A0+%CC%A5+%CC%AE+%CC%A5%E1%90%9F%5C%E0%B8%85+Code.+Deploy.+Monitor.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla&weight=500&size=30&duration=3000&pause=1000&color=4158F7&background=B2FF7100&width=900&lines=%2F%E1%90%A0+%CC%A5+%CC%AE+%CC%A5%E1%90%9F%5C%E0%B8%85+%24+cat+meow.txt+%7C+Code.+Deploy.+Monitor.)](https://git.io/typing-svg)
 
 </div>
 
