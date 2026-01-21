@@ -2,7 +2,7 @@
   
   <!--header-->
   <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&fontColor=14b8a6&height=200&section=header&text=Welcome+to+JongSeo's+GitHub!👋&fontSize=40&animation=twinkling"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&fontColor=14b8a6&height=200&section=header&text=Welcome+to+JongSeo's+Github!👋&fontSize=40&animation=twinkling"/>
   </div>
   
   <!--Markdown-->
@@ -20,14 +20,14 @@
     <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-snake-dark.svg" width="98%">
   </div>
   
-  <h2 align=center>👀 About me 👀</h2>
+  <h2 align=center>👀 About Me 👀</h2>
   <br>
   <h4 align=center>👨‍💻 I aim to become a Backend Developer.</h4>
   <h4 align=center>🔥 No one can stop my efforts.</h4>
   
   <br>
     
-  <h2 align=center>🤙 Contact me 🤙</h2>
+  <h2 align=center>🤙 Contact Me 🤙</h2>
 
   <br>
     
