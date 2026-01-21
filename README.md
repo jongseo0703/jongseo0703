@@ -136,7 +136,7 @@
 
   <!--footer-->
   <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&height=200&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=200&section=footer"/>
   </div>
   
 </div>
