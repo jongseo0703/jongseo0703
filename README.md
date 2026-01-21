@@ -2,7 +2,7 @@
   
   <!--header-->
   <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&fontColor=14b8a6&height=200&section=header&text=Welcome+to+JongSeo's+Github!👋&fontSize=40&animation=twinkling"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&fontColor=115e59&height=200&section=header&text=Welcome+to+JongSeo's+Github!👋&fontSize=40&animation=twinkling"/>
   </div>
   
   <!--Markdown-->
